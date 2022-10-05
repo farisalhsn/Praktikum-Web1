@@ -1,2 +1,2 @@
-# Praktikum-Web1
+# Praktikum02-Web
 Berisi code-code hasil tugas praktikum web
